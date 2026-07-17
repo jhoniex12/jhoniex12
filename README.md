@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Jhoniex 👋
 
-<!--
-**jhoniex12/jhoniex12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Full-Stack & AI Developer
 
-Here are some ideas to get you started:
+Master of Information Technology student based in Melbourne, Australia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build secure web applications, SaaS platforms, AI-powered automation,
+machine-learning projects, and production-ready backend systems.
+
+### 🛠️ Technologies
+
+- JavaScript, TypeScript, Python, C++
+- React, Next.js, Node.js, Express
+- SQL Server, REST APIs, OAuth, JWT
+- Machine Learning and AI Automation
+- Linux, Nginx, Cloudflare, PM2
+- Git, GitHub and CI/CD
+
+### 🚀 Current Projects
+
+- **EntraBook** — Multi-tenant booking SaaS
+- **EntraSave** — Personal finance platform
+- **BabyRan International** — Game administration platform
+- **RAN Online Engine Upgrade** — DirectX 11 and x64 migration
+- **Machine Learning Portfolio** — Practical AI and ML projects
+
+### 🌱 Currently Learning
+
+- Advanced machine learning
+- AI agents and workflow automation
+- Cloud architecture and DevOps
+- Secure, scalable application design
+
+### 📫 Connect With Me
+
+- Portfolio: Coming soon
+- LinkedIn: Add your LinkedIn URL here
