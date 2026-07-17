@@ -34,4 +34,4 @@ machine-learning projects, and production-ready backend systems.
 ### 📫 Connect With Me
 
 - Portfolio: Coming soon
-- LinkedIn: Add your LinkedIn URL here
+- LinkedIn: https://www.linkedin.com/in/jhoniex12
