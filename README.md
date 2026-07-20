@@ -5,6 +5,7 @@
 <img align="right" width="175" src="https://avatars.githubusercontent.com/u/57246108?v=4" alt="Jhoniex Gamayon" />
 
 Hi, I'm Jhoniex 👋
+
 Full-Stack, AI and Systems Developer based in Melbourne
 
 I am a Master of Information Technology student at CQUniversity, specialising in Networks and Information Security with a minor in Artificial Intelligence. I enjoy building secure, practical and scalable software.
