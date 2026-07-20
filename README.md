@@ -23,13 +23,17 @@ SaaS platforms with multi-tenant architecture, authentication and production dep
 Systems and game-engine projects using C++, x64 migration and graphics-engine modernisation
 Production infrastructure with Linux, Nginx, PM2, Cloudflare and CI/CD
 Current Focus
+
 Building software that is secure, maintainable, fast and useful.
 
-Next.js + TypeScript        ███████████████████░
-Node.js + SQL Server        ███████████████████░
-AI / Machine Learning       █████████████████░░░
-Cloud + DevOps              ████████████████░░░░
-C++ Systems Development     ████████████████░░░░
+```text
+C++ Systems Development  ████████████████████  95%
+Next.js + TypeScript     ███████████████████░  90%
+Node.js + SQL Server     ███████████████████░  90%
+AI / Machine Learning    █████████████████░░░  85%
+Cloud + DevOps           ████████████████░░░░  80%
+```
+
 
 ## Featured Public Projects
 
@@ -60,7 +64,7 @@ C++ Systems Development     ████████████████░�
   </tr>
 </table>
 
-Project Highlights
+## Project Highlights
 Project	What it demonstrates
 Machine Learning Portfolio	CNN image classification, transfer learning, LSTM time-series forecasting and neural-network modelling
 EntraSave	A responsive personal-finance platform with React, Node.js, Prisma, SQL Server, authentication and security-focused architecture
@@ -71,23 +75,24 @@ Project	Focus
 EntraBook	Multi-tenant booking SaaS, organisation-based tenancy, authentication, payments and production deployment
 BabyRan International	Game administration platform, secure APIs, account workflows and AI-assisted features
 RAN Online Engine Upgrade	Win32-to-x64 migration, DirectX modernisation, performance profiling and C++ systems engineering
-Web Projects	SEO-focused Next.js websites, accessibility, structured data and high Lighthouse performance
-Technology Stack
-Languages
+Web Projects	SEO-focused Next.js websites, accessibility, structured data and high Lighthouse performance.
+
+## Technology Stack
+### Languages
 
 <p> <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,html,css&perline=6" alt="Programming languages" /> </p>
 
-Frontend and Backend
+### Frontend and Backend
 
 <p> <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,vite,tailwind,prisma&perline=7" alt="Frontend and backend technologies" /> </p>
 
-Data, Infrastructure and Tools
+### Data, Infrastructure and Tools
 
 <p> <img src="https://skillicons.dev/icons?i=mysql,linux,nginx,cloudflare,docker,git,github,githubactions,vscode,visualstudio&perline=10" alt="Data, infrastructure and developer tools" /> </p>
 
 I primarily work with Microsoft SQL Server. The database icon above represents my broader relational-database experience.
 
-Engineering Strengths
+##  Engineering Strengths
 architecture:
   - secure authentication and authorisation
   - multi-tenant SaaS design
@@ -111,7 +116,7 @@ GitHub Activity
 
 <p align="center"> <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=jhoniex12&hide_border=true&area=true" alt="Jhoniex's contribution activity graph" /> </p>
 
-Learning and Career Direction
+## Learning and Career Direction
 
 I am continuing to deepen my skills in:
 
@@ -123,7 +128,7 @@ High-performance C++ and graphics systems
 
 I am interested in opportunities where I can contribute as a Junior Software Developer, Full-Stack Developer, AI Developer or Automation Engineer while continuing to grow through real-world engineering challenges.
 
-Let's Connect
+## Let's Connect
 
 <p align="center"> <a href="https://www.linkedin.com/in/jhoniex12"> <img src="https://img.shields.io/badge/LinkedIn-Jhoniex%20Gamayon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /> </a> <a href="https://github.com/jhoniex12"> <img src="https://img.shields.io/badge/GitHub-jhoniex12-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /> </a> </p>
 
