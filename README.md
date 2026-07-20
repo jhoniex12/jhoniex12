@@ -31,7 +31,7 @@ AI / Machine Learning       █████████████████�
 Cloud + DevOps              ████████████████░░░░
 C++ Systems Development     ████████████████░░░░
 
-Featured Public Projects
+## Featured Public Projects
 
 <table>
   <tr>
@@ -60,46 +60,44 @@ Featured Public Projects
   </tr>
 </table>
 
-## Selected Production and Systems Work
+Project Highlights
+Project	What it demonstrates
+Machine Learning Portfolio	CNN image classification, transfer learning, LSTM time-series forecasting and neural-network modelling
+EntraSave	A responsive personal-finance platform with React, Node.js, Prisma, SQL Server, authentication and security-focused architecture
+Networking and Security Portfolio	Cybersecurity labs, network analysis, cloud deployments, Linux, Wireshark, Nmap, AWS and Azure
+Ryde University	A Flask and MySQL student-records application designed for AWS infrastructure and horizontal scaling
+Selected Production and Systems Work
+Project	Focus
+EntraBook	Multi-tenant booking SaaS, organisation-based tenancy, authentication, payments and production deployment
+BabyRan International	Game administration platform, secure APIs, account workflows and AI-assisted features
+RAN Online Engine Upgrade	Win32-to-x64 migration, DirectX modernisation, performance profiling and C++ systems engineering
+Web Projects	SEO-focused Next.js websites, accessibility, structured data and high Lighthouse performance
+Technology Stack
+Languages
 
-| Project | Engineering focus |
-|---|---|
-| **EntraBook** | Multi-tenant booking SaaS, organisation-based tenancy, authentication, payments and production deployment |
-| **BabyRan International** | Game administration platform, secure APIs, account workflows and AI-assisted features |
-| **RAN Online Engine Upgrade** | Win32-to-x64 migration, DirectX modernisation, performance profiling and C++ systems engineering |
-| **WebAlive Projects** | SEO-focused Next.js websites, accessibility, structured data and high Lighthouse performance |
+<p> <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,html,css&perline=6" alt="Programming languages" /> </p>
 
-## Technology Stack
+Frontend and Backend
 
-**Languages**
+<p> <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,vite,tailwind,prisma&perline=7" alt="Frontend and backend technologies" /> </p>
 
-`TypeScript` `JavaScript` `Python` `C++` `SQL` `HTML` `CSS`
+Data, Infrastructure and Tools
 
-**Frontend and Backend**
+<p> <img src="https://skillicons.dev/icons?i=mysql,linux,nginx,cloudflare,docker,git,github,githubactions,vscode,visualstudio&perline=10" alt="Data, infrastructure and developer tools" /> </p>
 
-`React` `Next.js` `Node.js` `Express` `Vite` `Tailwind CSS` `Prisma`
+I primarily work with Microsoft SQL Server. The database icon above represents my broader relational-database experience.
 
-**Data and Infrastructure**
-
-`Microsoft SQL Server` `MySQL` `Linux` `Nginx` `PM2` `Cloudflare` `Docker`
-
-**Engineering Tools**
-
-`Git` `GitHub` `GitHub Actions` `VS Code` `Visual Studio` `Postman`
-
-## Engineering Strengths
-
-```yaml
+Engineering Strengths
 architecture:
   - secure authentication and authorisation
   - multi-tenant SaaS design
   - REST API and database design
-  - maintainable application structure
+  - modular and maintainable codebases
 
 quality:
   - accessibility and responsive design
   - SEO and performance optimisation
-  - testing and technical documentation
+  - validation, testing and documentation
   - security-first implementation
 
 problem_solving:
@@ -107,11 +105,31 @@ problem_solving:
   - modernising legacy applications
   - performance analysis
   - translating requirements into working software
-```
+GitHub Activity
 
-## Current Direction
+<p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jhoniex12&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Jhoniex's GitHub statistics" /> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhoniex12&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Jhoniex's most used languages" /> </p>
 
-I am continuing to deepen my skills in AI agents, workflow automation, model deployment, cloud architecture, DevOps, secure application design, and high-performance C++ systems.
+<p align="center"> <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=jhoniex12&hide_border=true&area=true" alt="Jhoniex's contribution activity graph" /> </p>
+
+Learning and Career Direction
+
+I am continuing to deepen my skills in:
+
+AI agents and workflow automation
+Machine learning and model deployment
+Cloud architecture and DevOps
+Secure and scalable application design
+High-performance C++ and graphics systems
+
+I am interested in opportunities where I can contribute as a Junior Software Developer, Full-Stack Developer, AI Developer or Automation Engineer while continuing to grow through real-world engineering challenges.
+
+Let's Connect
+
+<p align="center"> <a href="https://www.linkedin.com/in/jhoniex12"> <img src="https://img.shields.io/badge/LinkedIn-Jhoniex%20Gamayon-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /> </a> <a href="https://github.com/jhoniex12"> <img src="https://img.shields.io/badge/GitHub-jhoniex12-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /> </a> </p>
+
+<p align="center"> <em>Deep thinking, continuous learning and practical problem-solving.</em> </p>
+
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer" width="100%" alt="" /> </p>
 
 I am interested in opportunities as a **Junior Software Developer, Full-Stack Developer, AI Developer or Automation Engineer**.
 
