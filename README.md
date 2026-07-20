@@ -1,37 +1,35 @@
-<p align="center">
-  <img src="./assets/github-banner.svg" width="100%" alt="Jhoniex Gamayon, Full-Stack, AI and Systems Developer" />
-</p>
+<!-- GitHub Profile README for github.com/jhoniex12 Update the links or wording whenever your portfolio and career details change. -->
 
-<p align="center">
-  <img src="https://github.com/jhoniex12.png?size=180" width="150" alt="Jhoniex Gamayon" />
-</p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Jhoniex%20Gamayon&fontAlign=50&fontAlignY=38&desc=Full-Stack%20%7C%20AI%20%7C%20Systems%20Developer&descAlign=50&descAlignY=58&animation=fadeIn" width="100%" alt="Jhoniex Gamayon profile banner" /> </p>
 
-<h1 align="center">Hi, I'm Jhoniex 👋</h1>
+<img align="right" width="175" src="https://avatars.githubusercontent.com/u/57246108?v=4" alt="Jhoniex Gamayon" />
 
-<p align="center">
-  <strong>Full-Stack, AI and Systems Developer based in Melbourne</strong>
-</p>
+Hi, I'm Jhoniex 👋
+Full-Stack, AI and Systems Developer based in Melbourne
 
-<p align="center">
-  Master of Information Technology student at CQUniversity, specialising in
-  Networks and Information Security with a minor in Artificial Intelligence.
-</p>
+I am a Master of Information Technology student at CQUniversity, specialising in Networks and Information Security with a minor in Artificial Intelligence. I enjoy building secure, practical and scalable software.
 
-<p align="center">
-  <a href="https://github.com/jhoniex12">GitHub</a>
-  ·
-  <a href="https://www.linkedin.com/in/jhoniex12">LinkedIn</a>
-</p>
+My work spans modern web applications, SaaS platforms, AI and machine-learning projects, backend architecture, infrastructure, and C++ game-engine modernisation.
 
-## About Me
+<p> <a href="https://github.com/jhoniex12"> <img src="https://img.shields.io/github/followers/jhoniex12?label=Follow&style=for-the-badge&logo=github" alt="GitHub followers" /> </a> <a href="https://www.linkedin.com/in/jhoniex12"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <img src="https://img.shields.io/badge/Location-Melbourne%2C%20Australia-5C2D91?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Melbourne, Australia" /> </p>
 
-I build secure, practical and scalable software across web development, SaaS, AI and machine learning, backend architecture, infrastructure, and C++ systems engineering.
+<br clear="right"/>
 
-- Building full-stack applications with **React, Next.js, Node.js and TypeScript**
-- Designing secure APIs with **OAuth, JWT, validation and SQL Server**
-- Developing practical AI and machine-learning projects with **Python and TensorFlow**
-- Deploying production services with **Linux, Nginx, PM2 and Cloudflare**
-- Modernising legacy systems through **C++, x64 migration and performance profiling**
+What I Build
+Full-stack applications using React, Next.js, Node.js and TypeScript
+Secure backend systems with REST APIs, OAuth, JWT and SQL Server
+AI and machine-learning solutions using Python, TensorFlow and practical data workflows
+SaaS platforms with multi-tenant architecture, authentication and production deployment
+Systems and game-engine projects using C++, x64 migration and graphics-engine modernisation
+Production infrastructure with Linux, Nginx, PM2, Cloudflare and CI/CD
+Current Focus
+Building software that is secure, maintainable, fast and useful.
+
+Next.js + TypeScript        ███████████████████░
+Node.js + SQL Server        ███████████████████░
+AI / Machine Learning       █████████████████░░░
+Cloud + DevOps              ████████████████░░░░
+C++ Systems Development     ████████████████░░░░
 
 ## Featured Projects
 
