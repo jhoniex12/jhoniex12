@@ -113,8 +113,6 @@ problem_solving:
   - translating requirements into working software
 GitHub Activity
 
-<p align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jhoniex12&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" alt="Jhoniex's GitHub statistics" /> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhoniex12&layout=compact&hide_border=true&theme=transparent&langs_count=8" alt="Jhoniex's most used languages" /> </p>
-
 <p align="center"> <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=jhoniex12&hide_border=true&area=true" alt="Jhoniex's contribution activity graph" /> </p>
 
 ## Learning and Career Direction
