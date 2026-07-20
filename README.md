@@ -114,7 +114,7 @@ I primarily work with Microsoft SQL Server. The database icon above represents m
 
 ## GitHub Activity
 
-<p align="center"> <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=jhoniex12&hide_border=true&area=true" alt="Jhoniex's contribution activity graph" /> </p>
+<p align="center"> <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=jhoniex12&hide_border=true&area=true&theme=react-dark" alt="Jhoniex's contribution activity graph" /> </p>
 
 ## Learning and Career Direction
 
@@ -134,7 +134,7 @@ I am interested in opportunities where I can contribute as a Junior Software Dev
 
 <p align="center"> <em>Deep thinking, continuous learning and practical problem-solving.</em> </p>
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer" width="100%" alt="" /> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=088BED&height=110&section=footer" width="100%" alt="" /> </p>
 
 I am interested in opportunities as a **Junior Software Developer, Full-Stack Developer, AI Developer or Automation Engineer**.
 
