@@ -1,6 +1,7 @@
 <!-- GitHub Profile README for github.com/jhoniex12 Update the links or wording whenever your portfolio and career details change. -->
 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=088BED&text=Jhoniex%20Gamayon&fontAlign=50&fontAlignY=38&desc=Full-Stack%20%7C%20AI%20%7C%20Systems%20Developer&descAlign=50&descAlignY=58&animation=fadeIn" width="100%" alt="Jhoniex Gamayon profile banner" /> </p>
+<p align="center"> <a href="https://github.com/jhoniex12"> <img src="https://img.shields.io/github/followers/jhoniex12?label=Follow&style=for-the-badge&logo=github" alt="GitHub followers" /> </a> <a href="https://www.linkedin.com/in/jhoniex12"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <img src="https://img.shields.io/badge/Location-Melbourne%2C%20Australia-5C2D91?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Melbourne, Australia" /> </p>
 
 <img align="right" width="175" src="https://avatars.githubusercontent.com/u/57246108?v=4" alt="Jhoniex Gamayon" />
 
@@ -11,9 +12,6 @@ Full-Stack, AI and Systems Developer based in Melbourne
 I am a Master of Information Technology student at CQUniversity, specialising in Networks and Information Security with a minor in Artificial Intelligence. I enjoy building secure, practical and scalable software.
 
 My work spans modern web applications, SaaS platforms, AI and machine-learning projects, backend architecture, infrastructure, and C++ game-engine modernisation.
-
-<p align="center"> <a href="https://github.com/jhoniex12"> <img src="https://img.shields.io/github/followers/jhoniex12?label=Follow&style=for-the-badge&logo=github" alt="GitHub followers" /> </a> <a href="https://www.linkedin.com/in/jhoniex12"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <img src="https://img.shields.io/badge/Location-Melbourne%2C%20Australia-5C2D91?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Melbourne, Australia" /> </p>
-
 
 <br clear="right"/>
 
