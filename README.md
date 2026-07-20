@@ -1,6 +1,6 @@
 <!-- GitHub Profile README for github.com/jhoniex12 Update the links or wording whenever your portfolio and career details change. -->
 
-<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=Jhoniex%20Gamayon&fontAlign=50&fontAlignY=38&desc=Full-Stack%20%7C%20AI%20%7C%20Systems%20Developer&descAlign=50&descAlignY=58&animation=fadeIn" width="100%" alt="Jhoniex Gamayon profile banner" /> </p>
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=088BED&text=Jhoniex%20Gamayon&fontAlign=50&fontAlignY=38&desc=Full-Stack%20%7C%20AI%20%7C%20Systems%20Developer&descAlign=50&descAlignY=58&animation=fadeIn" width="100%" alt="Jhoniex Gamayon profile banner" /> </p>
 
 <img align="right" width="175" src="https://avatars.githubusercontent.com/u/57246108?v=4" alt="Jhoniex Gamayon" />
 
