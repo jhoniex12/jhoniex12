@@ -14,6 +14,7 @@ My work spans modern web applications, SaaS platforms, AI and machine-learning p
 
 <p> <a href="https://github.com/jhoniex12"> <img src="https://img.shields.io/github/followers/jhoniex12?label=Follow&style=for-the-badge&logo=github" alt="GitHub followers" /> </a> <a href="https://www.linkedin.com/in/jhoniex12"> <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> </a> <img src="https://img.shields.io/badge/Location-Melbourne%2C%20Australia-5C2D91?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Melbourne, Australia" /> </p>
 
+
 <br clear="right"/>
 
 What I Build
