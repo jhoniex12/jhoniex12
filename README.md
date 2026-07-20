@@ -94,24 +94,25 @@ Web Projects	SEO-focused Next.js websites, accessibility, structured data and hi
 I primarily work with Microsoft SQL Server. The database icon above represents my broader relational-database experience.
 
 ##  Engineering Strengths
-architecture:
+### Architecture:
   - secure authentication and authorisation
   - multi-tenant SaaS design
   - REST API and database design
   - modular and maintainable codebases
 
-quality:
+### Quality:
   - accessibility and responsive design
   - SEO and performance optimisation
   - validation, testing and documentation
   - security-first implementation
 
-problem_solving:
+### Problem solving:
   - debugging complex systems
   - modernising legacy applications
   - performance analysis
   - translating requirements into working software
-GitHub Activity
+
+## GitHub Activity
 
 <p align="center"> <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=jhoniex12&hide_border=true&area=true" alt="Jhoniex's contribution activity graph" /> </p>
 
