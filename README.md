@@ -31,7 +31,7 @@ AI / Machine Learning       █████████████████�
 Cloud + DevOps              ████████████████░░░░
 C++ Systems Development     ████████████████░░░░
 
-## Featured Projects
+Featured Public Projects
 
 <table>
   <tr>
