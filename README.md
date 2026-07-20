@@ -11,13 +11,6 @@
   />
 </p>
 
-<img
-align="right"
-width="175"
-src="https://avatars.githubusercontent.com/u/57246108?v=4"
-alt="Jhoniex Gamayon"
-/>
-
 # Hi, I'm Jhoniex 👋
 
 ### Full-Stack, AI and Systems Developer based in Melbourne
